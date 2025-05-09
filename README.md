@@ -152,3 +152,10 @@ This implementation provides a basic synchronous RAM model with read and write o
 - Parameterized Design: The RAM size and data width can be easily modified by adjusting the parameter values.
 
 By following this implementation, you can develop a simple synchronous RAM model that meets your specific requirements.
+
+
+
+## output
+
+![Image](https://github.com/user-attachments/assets/b273c1c8-cf43-49ce-868a-c7c813813005)
+![Image](https://github.com/user-attachments/assets/368a9cbd-5865-4d03-b68a-a918bfd8ef16)
