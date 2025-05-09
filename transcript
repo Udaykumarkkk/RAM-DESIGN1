@@ -1,0 +1,61 @@
+# Compile of RAM.v was successful.
+vsim -gui 5
+# vsim -gui 5 
+# Start time: 18:41:58 on May 04,2025
+# ** Error: (vsim-3170) Could not find '5'.
+#         Searched libraries:
+#             C:/Users/karan/OneDrive/Desktop/vlsi tasks/task 2/RAM/work
+# Error loading design
+# End time: 18:41:59 on May 04,2025, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 5
+vsim -gui 1 -t 10ms
+# vsim -gui 1 -t 10ms 
+# Start time: 18:42:25 on May 04,2025
+# ** Error: (vsim-3170) Could not find '1'.
+#         Searched libraries:
+#             C:/Users/karan/OneDrive/Desktop/vlsi tasks/task 2/RAM/work
+# Error loading design
+# End time: 18:42:25 on May 04,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+vsim 12
+# vsim 12 
+# Start time: 18:43:35 on May 04,2025
+# ** Error: (vsim-3170) Could not find '12'.
+#         Searched libraries:
+#             C:/Users/karan/OneDrive/Desktop/vlsi tasks/task 2/RAM/work
+# Error loading design
+# End time: 18:43:35 on May 04,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 2
+vsim 12
+# vsim 12 
+# Start time: 18:43:37 on May 04,2025
+# ** Error: (vsim-3170) Could not find '12'.
+#         Searched libraries:
+#             C:/Users/karan/OneDrive/Desktop/vlsi tasks/task 2/RAM/work
+# Error loading design
+# End time: 18:43:37 on May 04,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+# can't read "Startup(-L)": no such element in array
+# Load canceled
+vsim 12
+# vsim 12 
+# Start time: 18:43:52 on May 04,2025
+# ** Error: (vsim-3170) Could not find '12'.
+#         Searched libraries:
+#             C:/Users/karan/OneDrive/Desktop/vlsi tasks/task 2/RAM/work
+# Error loading design
+# End time: 18:43:52 on May 04,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+vsim 12
+# vsim 12 
+# Start time: 18:43:57 on May 04,2025
+# ** Error: (vsim-3170) Could not find '12'.
+#         Searched libraries:
+#             C:/Users/karan/OneDrive/Desktop/vlsi tasks/task 2/RAM/work
+# Error loading design
+# End time: 18:43:57 on May 04,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+# Compile of RAM.v was successful.
+vlib RAM
+# can't read "Startup(-L)": no such element in array
+# Load canceled
