@@ -16,8 +16,9 @@
 
 ## Synchronous RAM Design
 Synchronous RAM (SRAM) is a type of random access memory that operates in synchronization with the system clock. It is designed to provide fast and efficient data storage and retrieval.
-
+![1](https://github.com/user-attachments/assets/33358448-7f51-48ef-8f68-1f5179cb2cb7)
 ## Key Features:
+
 1. Clocked Operation: SRAM operates in synchronization with the system clock, ensuring that data is written and read in a coordinated manner.
 2. Fast Access Times: SRAM provides fast access times, making it suitable for high-performance applications.
 3. Volatile Memory: SRAM is a volatile memory technology, meaning that data is lost when power is turned off.
@@ -26,6 +27,7 @@ Synchronous RAM (SRAM) is a type of random access memory that operates in synchr
 1. Clock Frequency: The clock frequency of the SRAM must be carefully designed to ensure that data is written and read correctly.
 2. Access Time: The access time of the SRAM must be minimized to ensure fast data retrieval.
 3. Power Consumption: The power consumption of the SRAM must be optimized to reduce energy consumption and heat generation.
+![2](https://github.com/user-attachments/assets/6e559645-fd6d-4961-97ff-98c4bbffda95)
 
 ## Applications:
 1. High-Performance Computing: SRAM is used in high-performance computing applications, such as cache memory and register files.
